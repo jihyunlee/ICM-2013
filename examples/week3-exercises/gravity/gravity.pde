@@ -20,7 +20,7 @@ void setup() {
 }
 
 void draw() {
-  background(mouseX, mouseY, 255);
+  background(255);
 
   // Display the square
   fill(175);
