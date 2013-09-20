@@ -16,6 +16,7 @@ float gravity = 0.1;
 
 void setup() {
   size(300,300);
+  println("hello");
 
 }
 
