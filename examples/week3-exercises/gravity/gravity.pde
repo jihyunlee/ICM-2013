@@ -26,7 +26,7 @@ void draw() {
   fill(175);
   stroke(0);
   rectMode(CENTER);
-  ellipse(x,y,10,10);
+  rect(x,y,10,10);
   
   // Add speed to location.
   y = y + speed;
